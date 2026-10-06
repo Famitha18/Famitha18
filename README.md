@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi there, I'm FAMITHA 👋
 
-<!--
-**Famitha18/Famitha18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-Year Information Technology Student
+💻 Aspiring Software Developer
+🚀 Learning C & Python
+🌱 Building my programming fundamentals
 
-Here are some ideas to get you started:
+## 📖 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am an Information Technology student passionate about
+programming, problem solving and learning new technologies.
+
+Currently, I am building my fundamentals in C and Python
+and exploring software development and GitHub.
+
+## 💻 Technical Skills
+
+- C Programming
+- Python
+- Git & GitHub
+- VS Code
+
+## 🌱 Currently Learning
+
+- C Programming
+- Python
+- Data Structures
+- Problem Solving
+- Git & GitHub
+
+## 🎯 Career Goals
+
+- Strengthen my programming fundamentals
+- Build real-world projects
+- Learn advanced technologies
+- Become a skilled IT professional
+
+## 📂 Featured Projects
+
+- C Programming Foundations
+- Python Projects
+
+## 📬 Connect With Me
+
+- LinkedIn
+- GitHub
