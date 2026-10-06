@@ -42,5 +42,5 @@ and exploring software development and GitHub.
 
 ## 📬 Connect With Me
 
-- LinkedIn
-- GitHub
+- LinkedIn[https://www.linkedin.com/in/famitha-a-595519436?utm_source=share_via&utm_content=profile&utm_medium=member_android]
+- GitHub[https://github.com/Famitha18]
